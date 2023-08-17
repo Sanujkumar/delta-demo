@@ -1,2 +1,2 @@
 # delta-demo
-i'm learning to git and github 
+i'm learning to git and github class .
